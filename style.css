@@ -127,6 +127,7 @@ header .grid .right{
     padding-right: 10%;
     align-items: center;
     justify-content: center;
+    z-index:99;
 }
 header .grid .right svg path{
     transition: fill 0.15s ease-in-out;
